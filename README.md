@@ -36,3 +36,5 @@ The CSV file should have the following format:
 The output of the code is a visualization of the product placement scheme in the store. The grid represents the store layout, and each product is labeled and placed in its corresponding grid cell.
 
 The visualization helps in understanding the distribution of different products within the store and facilitates the optimization of product placement strategies.
+
+If you have any questions or suggestions, please feel free to contact [me](https://linkedin.com/in/leviaaf).

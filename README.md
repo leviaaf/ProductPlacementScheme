@@ -1,5 +1,5 @@
 # Product_Placement_Scheme_Visualization
-This repository contains code for visualizing product placement scheme in a store from association results. The code reads data from a CSV file and generates a grid-based visualization.
+This repository contains code for visualizing the product placement scheme in a store based on association results. The code reads data from a CSV file and generates a visualization based on a grid layout.
 
 ## Requirements
 To run this code, you need the following dependencies:
@@ -15,7 +15,7 @@ To run this code, you need the following dependencies:
 
 The code will prompt you to upload the CSV file. Select the appropriate file from your local machine.
 
-The visualization will be displayed in a plot window, showing the product placement scheme in the store. The grid represents the store layout, and each product is labeled and placed in its corresponding grid cell.
+The visualization will be displayed in a plot window, depicting the product placement scheme in the store. The grid represents the store layout, with each product labeled and positioned in its corresponding grid cell.
 
 ## Data Format
 The CSV file should have the following format:
@@ -35,4 +35,4 @@ The CSV file should have the following format:
 ## Output
 The output of the code is a visualization of the product placement scheme in the store. The grid represents the store layout, and each product is labeled and placed in its corresponding grid cell.
 
-The visualization helps in understanding how different product are distributed within the store and aids in optimizing product placement strategies.
+The visualization helps in understanding the distribution of different products within the store and facilitates the optimization of product placement strategies.

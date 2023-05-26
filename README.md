@@ -7,7 +7,7 @@ To run this code, you need the following dependencies:
 - [`matplotlib.pyplot`](https://matplotlib.org/stable/api/pyplot_summary.html)
 
 ## Usage
-1. Clone the repository to your local machine or download the code files.
+1. Clone the repository to your local machine or [download](https://github.com/leviaaf/ProductPlacementScheme/blob/aefc24c2e104eab0cd6ea7f3d5f5b3ddd95ab49e/Product_Placement_Scheme.ipynb) the code files.
 2. Make sure you have the required dependencies installed.
 3. Place the CSV file containing the product association data in the same directory as the code files.
 4. Open the code file in your preferred Python environment.

@@ -1,0 +1,103 @@
+Items;Frequency;Support
+Snack;5892;0.440095608
+Minuman;3058;0.228413505
+Susu;2367;0.17680012
+Ice Cream;2278;0.170152375
+Permen dan Coklat;1462;0.109202271
+Mie;1054;0.078727218
+Bahan Masak;953;0.071183149
+Perlengkapan Mandi;711;0.05310726
+Perlengkapan Kebersihan;698;0.052136241
+Makanan;684;0.051090529
+Obat dan Suplemen;606;0.045264416
+Sembako;564;0.042127278
+Agar agar;444;0.033164027
+Peralatan Sehari-hari;433;0.032342396
+Frozen Food;346;0.025844039
+Minuman Sachet;323;0.024126083
+Mainan Anak;281;0.020988945
+Makeup dan Skincare;233;0.017403645
+Perlengkapan Bayi;211;0.015760382
+Tisu;193;0.014415895
+Air Galon;187;0.013967732
+Peralatan Sekolah;160;0.011951001
+Pengusir Serangga;139;0.010382432
+Kerupuk;130;0.009710188
+Pembalut Wanita;129;0.009635494
+Bodycare & Haircare;117;0.008739169
+Pengharum Baju/Ruangan;107;0.007992232
+Alat Kebersihan;98;0.007319988
+Gas;90;0.006722438
+Perlengkapan Dapur;81;0.006050194
+"Snack, Minuman;1197;0.089408425"
+"Snack, Susu;1227;0.091649238"
+"Snack, Ice Cream;801;0.059829698"
+"Snack, Permen dan Coklat;770;0.057514192"
+"Snack, Mie;459;0.034284434"
+"Snack, Bahan Masak;286;0.021362414"
+"Snack, Perlengkapan Mandi;241;0.018001195"
+"Snack, Perlengkapan Kebersihan;206;0.015386914"
+"Snack, Makanan;305;0.022781595"
+"Snack, Obat dan Suplemen;267;0.019943233"
+"Snack, Sembako;138;0.010307738"
+"Snack, Agar agar;220;0.016432626"
+"Snack, Peralatan Sehari-hari;110;0.008216313"
+"Snack, Frozen Food;165;0.01232447"
+"Snack, Minuman Sachet;141;0.01053182"
+"Snack, Mainan Anak;110;0.008216313"
+"Snack, Makeup dan Skincare;88;0.00657305"
+"Snack, Perlengkapan Bayi;120;0.008963251"
+"Minuman, Susu;434;0.03241709"
+"Minuman, Ice Cream;313;0.023379146"
+"Minuman, Permen dan Coklat;272;0.020316702"
+"Minuman, Mie;175;0.013071407"
+"Minuman, Bahan Masak;141;0.01053182"
+"Minuman, Perlengkapan Mandi;111;0.008291007"
+"Minuman, Perlengkapan Kebersihan;87;0.006498357"
+"Minuman, Makanan;145;0.010830595"
+"Minuman, Obat dan Suplemen;108;0.008066926"
+"Minuman, Agar agar;96;0.007170601"
+"Minuman, Frozen Food;78;0.005826113"
+"Minuman, Minuman Sachet;75;0.005602032"
+"Susu, Ice Cream;332;0.024798327"
+"Susu, Permen dan Coklat;316;0.023603227"
+"Susu, Mie;184;0.013743651"
+"Susu, Bahan Masak;141;0.01053182"
+"Susu, Perlengkapan Mandi;112;0.008365701"
+"Susu, Perlengkapan Kebersihan;96;0.007170601"
+"Susu, Makanan;128;0.009560801"
+"Susu, Obat dan Suplemen;106;0.007917538"
+"Susu, Agar agar;91;0.006797132"
+"Susu, Frozen Food;73;0.005452644"
+"Ice Cream, Permen dan Coklat;238;0.017777114"
+"Ice Cream, Mie;120;0.008963251"
+"Ice Cream, Perlengkapan Mandi;86;0.006423663"
+"Ice Cream, Makanan;79;0.005900807"
+"Ice Cream, Agar agar;92;0.006871826"
+"Permen dan Coklat, Mie;98;0.007319988"
+"Permen dan Coklat, Bahan Masak;74;0.005527338"
+"Permen dan Coklat, Makanan;88;0.00657305"
+"Permen dan Coklat, Agar agar;96;0.007170601"
+"Mie, Bahan Masak;180;0.013444876"
+"Mie, Perlengkapan Mandi;96;0.007170601"
+"Mie, Perlengkapan Kebersihan;97;0.007245294"
+"Mie, Sembako;130;0.009710188"
+"Bahan Masak, Perlengkapan Mandi;144;0.010755901"
+"Bahan Masak, Perlengkapan Kebersihan;163;0.012175082"
+"Bahan Masak, Sembako;135;0.010083657"
+"Bahan Masak, Minuman Sachet;74;0.005527338"
+"Perlengkapan Mandi, Perlengkapan Kebersihan;186;0.013893039"
+"Snack, Minuman, Susu;251;0.018748133"
+"Snack, Minuman, Ice Cream;152;0.011353451"
+"Snack, Minuman, Permen dan Coklat;161;0.012025695"
+"Snack, Minuman, Mie;101;0.007544069"
+"Snack, Minuman, Makanan;73;0.005452644"
+"Snack, Susu, Ice Cream;176;0.013146101"
+"Snack, Susu, Permen dan Coklat;212;0.015835076"
+"Snack, Susu, Mie;117;0.008739169"
+"Snack, Susu, Bahan Masak;73;0.005452644"
+"Snack, Ice Cream, Permen dan Coklat;125;0.009336719"
+"Snack, Permen dan Coklat, Mie;72;0.00537795"
+"Snack, Mie, Bahan Masak;90;0.006722438"
+"Minuman, Susu, Ice Cream;75;0.005602032"
+"Minuman, Susu, Permen dan Coklat;72;0.00537795"

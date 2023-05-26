@@ -3,8 +3,8 @@ This repository contains code for visualizing the product placement scheme in a 
 
 ## Requirements
 To run this code, you need the following dependencies:
-- `numpy`
-- `matplotlib`
+- [`numpy`](https://numpy.org/)
+- [`matplotlib.pyplot`](https://matplotlib.org/stable/api/pyplot_summary.html)
 
 ## Usage
 1. Clone the repository to your local machine or download the code files.

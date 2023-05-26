@@ -1,5 +1,5 @@
 # Product_Placement_Scheme_Visualization
-This repository contains code for visualizing the product placement scheme in a store based on association results. The code reads data from a CSV file and generates a visualization based on a grid layout.
+This repository contains code for visualizing the product placement scheme in a store based on association results. The code reads [data](https://github.com/leviaaf/Product_Placement_Scheme/blob/a1a29a8b80ff53d662d021fea2d603a5f516a645/Product%20Category%20Visualization.csv) from a CSV file and generates a visualization based on a grid layout.
 
 ## Requirements
 To run this code, you need the following dependencies:
